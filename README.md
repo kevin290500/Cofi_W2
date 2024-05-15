@@ -1,3 +1,23 @@
+# Business Understanding
+
+Jaya Jaya Maju adalah sebuah perusahaan multinasional yang telah beroperasi sejak tahun 2000. Perusahaan ini memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri. Meskipun telah menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih menghadapi tantangan dalam mengelola karyawan, yang tercermin dalam tingginya tingkat attrition rate mereka. Attrition rate adalah rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan. Dalam konteks ini, attrition rate yang tinggi mengindikasikan bahwa banyak karyawan yang meninggalkan perusahaan.
+
+# Permasalahan Bisnis
+
+Tantangan utama yang dihadapi oleh Jaya Jaya Maju adalah tingginya attrition rate. Tingkat pergantian karyawan yang tinggi dapat memiliki dampak negatif yang signifikan pada kinerja perusahaan, termasuk biaya penggantian karyawan, penurunan produktivitas, dan hilangnya pengetahuan dan keterampilan yang berharga. Oleh karena itu, penting untuk memahami faktor-faktor yang mempengaruhi attrition rate agar langkah-langkah yang sesuai dapat diambil untuk menguranginya.
+
+# Cakupan Proyek
+
+Cakupan proyek ini mencakup pencarian alasan di balik tingkat attrition pegawai dan penyusunan strategi untuk meningkatkan retensi karyawan, dengan tujuan menciptakan lingkungan kerja yang lebih memuaskan dan produktif.
+
+# Persiapan
+
+Persiapan sumber data dari data perusahaan Jaya Jaya Maju telah dilakukan untuk mendukung analisis dan pemahaman lebih lanjut terkait tingkat attrition dan faktor-faktor yang memengaruhinya.
+
+# Bussiness Dashboard
+
+https://public.tableau.com/views/Dicoding-Kevin1/HRANALYTHICSDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 # Kesimpulan:
 
 - Tingkat attrition di perusahaan sekitar 17%, dengan mayoritas karyawan memiliki tingkat kepuasan kerja yang rendah.
